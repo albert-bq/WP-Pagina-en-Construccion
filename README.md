@@ -42,16 +42,6 @@ Cuando el modo de mantenimiento está activado, cualquier visitante que no esté
 - Posibilidad de cambiar el estado directamente desde la barra de herramientas.
 - Añadido enlace de configuración en la página de plugins.
 
-## Capturas de Pantalla
-
-### Página de Configuración
-
-![Configuración del Plugin](https://example.com/screenshot1.png)
-
-### Indicador en la Barra de Herramientas
-
-![Barra de Herramientas](https://example.com/screenshot2.png)
-
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir los cambios que te gustaría realizar.
